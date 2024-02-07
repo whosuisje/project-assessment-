@@ -1,4 +1,4 @@
-#Global Certification Landscape Project
+# Global Certification Landscape Project
 Welcome to the Global Certification Landscape Project, a comprehensive initiative designed to unravel the intricacies of the certification ecosystem worldwide. This project is a testament to the power of data extraction, collection, and analysis, aiming to shed light on the global certification dynamics through a meticulously structured approach.
 
 Project Components
